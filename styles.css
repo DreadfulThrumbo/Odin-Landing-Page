@@ -136,3 +136,8 @@ button {
     border-radius: 8px;
     border: 1px;
 }
+
+.footer {
+    background-color: #1F2937;
+    color: #f1f1f5;
+}
