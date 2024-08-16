@@ -101,3 +101,38 @@ button {
     font-size: 25px;
     font-weight: bold;
 }
+
+.call {
+    display: flex;
+    justify-content: center;
+    padding: 50px 250px;
+    color: #f4f4f5;
+    background-color: #141b25;
+}
+
+.sign-up {
+    display: flex;
+    background-color: #3882F6;
+    flex-grow: 1;
+    padding: 30px;
+    border-radius: 8px;
+    justify-content: space-around;
+}
+
+.call p {
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+}
+
+.updates {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.call button {
+    background-color: #2476fa;
+    padding: 10px 32px;
+    border-radius: 8px;
+    border: 1px;
+}
